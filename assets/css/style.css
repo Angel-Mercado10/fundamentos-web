@@ -1,0 +1,11 @@
+@import url('variables.css');
+
+body {
+    background-color: var(--backcolor);
+}
+
+header {
+    color: var(--rojoC5);
+    padding: 20px;
+    text-align: center;
+}

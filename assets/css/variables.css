@@ -1,0 +1,36 @@
+:root{
+    --backcolor:#e8fdff;
+    --rojoC5:#c51d1d;
+    --beishFF:#ffe3c8;
+
+}
+
+/*Fuentes*/
+@font-face {
+    font-family: 'Nata-Black';
+    src: url(../fuentes/NataSans-Black.ttf)format('truetype');
+}
+@font-face {
+    font-family: 'Nata-Bold';
+    src: url(../fuentes/NataSans-Bold.ttf) format('truetype');
+}
+@font-face {
+    font-family: 'Nata-Regular';
+    src: url(../fuentes/NataSans-Regular.ttf) format('truetype');
+}
+@font-face {
+    font-family: 'Nata-Light';
+    src: url(../fuentes/NataSans-Light.ttf) format('truetype');
+}
+@font-face {
+    font-family: 'Nata-Medium';
+    src: url(../fuentes/NataSans-Medium.ttf) format('truetype');
+}
+@font-face {
+    font-family: 'Nata-SemiBold';
+    src: url(../fuentes/NataSans-SemiBold.ttf) format('truetype');
+}
+@font-face {
+    font-family: 'Nata-Thin';
+    src: url(../fuentes/NataSans-Thin.ttf) format('truetype');
+}
